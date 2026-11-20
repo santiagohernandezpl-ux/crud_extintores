@@ -259,6 +259,6 @@ Un repositorio con todo el código fuente y un archivo README.md que incluya:
 
 ## 👤 Autor
 
-**Adrian Rojas** · Adrian_rojasfi@fet.edu.co
+** Santiago Hernandez Plza** · santiago_hernandezpl@fet.edu.co
 Ingeniería de Software · Fundación Escuela Tecnológica de Neiva (FET)
 Seminario en Gestión de Software Ágil Asistido por IA · Docente: Camilo Vargas
